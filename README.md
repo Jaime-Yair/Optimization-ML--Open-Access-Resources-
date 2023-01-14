@@ -3,10 +3,13 @@
 ## Linear Optimazation
 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Course                                | Prof.          |  Notes |
+| -------------                         | -------------  |------------- |
+| 18.01 Single Variable Calculus        |                |------------- |
+| Calculus I, II, III, IV               |                | ------------- |
+| 18.02 Multivariable Calculus	        |                | ------------- |
+| 18.03 Differential equations	        |                | ------------- |
+
 
 ## Robust Optimization
 
