@@ -5,7 +5,7 @@
 
 | Course                                  | Prof.        |  Notes            | Video Lectures    |Level |Code  | Website|
 | -------------                           | ------------ |-------------      | -------------     |------|------|------|
-| 18.01 Single Variable Calculus          | D. Jerison   |:white_check_mark: | :white_check_mark:|UG    |      |<a href=""Title"> Here</a>|
+| 18.01 Single Variable Calculus          | D. Jerison   |:white_check_mark: | :white_check_mark:|UG    |      |<a href="https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures/"Title"> Here</a>|
 | Calculus I, II, III, IV                 | T. Bazett    |                   | :white_check_mark:|UG    |      |<a href=""Title"> Here</a>|
 | 18.02 Multivariable Calculus	          | D. Auroux    | :white_check_mark:| :white_check_mark:|UG    |      |<a href=""Title"> Here</a>|
 | 18.03 Differential equations	          | H. Miller    |:white_check_mark: | :white_check_mark:|UG    |      |<a href=""Title"> Here</a>|
