@@ -14,13 +14,13 @@
 ## Linear algebra
 
 | Course                                  | Prof.        |  Notes            | Video Lectures   |Level |Code |
-| -------------                           | ------------ |-------------      |-------------     |------|------|
-| 18.06 Linear Algebra	                  | G. Strang    |:white_check_mark: |:white_check_mark:|UG    |
-| Linear Algebra		                      | N. Johnston  | :white_check_mark:|:white_check_mark:|UG    |
-| Linear Algebra Full Course		          | T. Bazett    | -------------     |:white_check_mark:|UG    |
-| Introduction to Applied Linear Algebra	| S. Boyd      | :white_check_mark:|:white_check_mark:|UG    |<a href="https://github.com/vbartle/VMLS-Companions" title="Title"> Click</a>
-| ECE/CS/ME 532 Matrix Methods in ML			| L. Lessard   | :white_check_mark:|:white_check_mark:|GR    |
-| 18.065 Matrix Methods In DA, SP, and ML	| G. Strang    | :white_check_mark:|:white_check_mark:|UG    |
+| -------------                           | ------------ |-------------      |-------------     |------|-----|
+| 18.06 Linear Algebra	                  | G. Strang    |:white_check_mark: |:white_check_mark:|UG    |     | 
+| Linear Algebra		                      | N. Johnston  | :white_check_mark:|:white_check_mark:|UG    ||
+| Linear Algebra Full Course		          | T. Bazett    | -------------     |:white_check_mark:|UG    ||
+| Introduction to Applied Linear Algebra	| S. Boyd      | :white_check_mark:|:white_check_mark:|UG    |<a href="https://github.com/vbartle/VMLS-Companions" title="Title"> Click</a>|
+| ECE/CS/ME 532 Matrix Methods in ML			| L. Lessard   | :white_check_mark:|:white_check_mark:|GR    ||
+| 18.065 Matrix Methods In DA, SP, and ML	| G. Strang    | :white_check_mark:|:white_check_mark:|UG    ||
 
 
 
@@ -28,19 +28,19 @@
 
 
 
-| Course                                      | Prof.            |  Notes            | Video Lectures   |Level |
-| -------------                               | -------------    |-------------      | -------------    |------|
-| ORF307 Optimization	                        | B. Stellato      |:white_check_mark: |                  |UG    |
+| Course                                      | Prof.            |  Notes            | Video Lectures   |Level |  Code  |
+| -------------                               | -------------    |-------------      | -------------    |------| ------|
+| ORF307 Optimization	                        | B. Stellato      |:white_check_mark: |                  |UG    |<a href="https://github.com/ORF307/companion" title="Title"> Click</a>|
 | Math 464 Linear Optimization	              | B. Krishnamoorthy| :white_check_mark:|:white_check_mark:|UG/GR |
 | Convex optimization		                      | A. Bazzi         | :white_check_mark:|:white_check_mark:|UG    |
-| ORF522: Linear and Nonlinear Optimization	  | B. Stellato      | :white_check_mark:|                  |GR    |
-| Convex optimization		                      | R. Tibshirani    |:white_check_mark: |:white_check_mark:|GR    |
-| Optimization		                            | G. Gordon        | :white_check_mark:|:white_check_mark:|UG    |
-| ISE 3200 Linear and Integer Programming	    | A. Conejo        | :white_check_mark:|:white_check_mark:|UG    |
-| ISyE/Math/CS 728 Integer Optimization	      | A. Del Pia       | -------------     |:white_check_mark:|GR    |
-| ISyE/Math/CS/Stat 525 Linear Optimization		| A. Del Pia       | -------------     |:white_check_mark:|GR    |
-| CS/ECE/ISyE 524 Introduction to Optimization| L. Lessard       | :white_check_mark:|:white_check_mark:|UG    |
-| EE364a: Convex Optimization I	              | S. Boyd          |:white_check_mark: |:white_check_mark:|UG    |
+| ORF522: Linear and Nonlinear Optimization	  | B. Stellato      | :white_check_mark:|                  |GR    |<a href="https://github.com/ORF522/companion" title="Title"> Click</a>|
+| Convex optimization		                      | R. Tibshirani    |:white_check_mark: |:white_check_mark:|GR    |  |
+| Optimization		                            | G. Gordon        | :white_check_mark:|:white_check_mark:|UG    |  |
+| ISE 3200 Linear and Integer Programming	    | A. Conejo        | :white_check_mark:|:white_check_mark:|UG    |  |
+| ISyE/Math/CS 728 Integer Optimization	      | A. Del Pia       | -------------     |:white_check_mark:|GR    |  |
+| ISyE/Math/CS/Stat 525 Linear Optimization		| A. Del Pia       | -------------     |:white_check_mark:|GR    |  |
+| CS/ECE/ISyE 524 Introduction to Optimization| L. Lessard       | :white_check_mark:|:white_check_mark:|UG    |<a href="https://laurentlessard.com/teaching/524-intro-to-optimization/" title="Title"> Click</a>|
+| EE364a: Convex Optimization I	              | S. Boyd          |:white_check_mark: |:white_check_mark:|UG    |  |
 
 
 
@@ -57,9 +57,9 @@
 ## Mathematics for ML
 
 
-| Course                                      | Prof.         |  Notes           |Video Lectures    |Level |
-| -------------                               | ------------- |-------------     |-------------     |------|
-| Statistical Machine Learning	              | R. Tibshirani |:white_check_mark:|:white_check_mark:|GR    |
-| Mathematical Foundations for Data Analysis  | J. Phillips   |:white_check_mark:|:white_check_mark:|UG    |
-| Mathematical Foundations of Machine Learning| R. Willett    |:white_check_mark:|:white_check_mark:|UG/GR |
+| Course                                      | Prof.         |  Notes           |Video Lectures    |Level | Code  |
+| -------------                               | ------------- |-------------     |-------------     |------|       |
+| Statistical Machine Learning	              | R. Tibshirani |:white_check_mark:|:white_check_mark:|GR    ||
+| Mathematical Foundations for Data Analysis  | J. Phillips   |:white_check_mark:|:white_check_mark:|UG    | <a href="https://www.cs.utah.edu/~jeffp/teaching/FoDA.html" title="Title"> Click</a>|
+| Mathematical Foundations of Machine Learning| R. Willett    |:white_check_mark:|:white_check_mark:|UG/GR ||
 
