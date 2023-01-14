@@ -3,12 +3,12 @@
 ## Calculus/Diff equations/Analysis
 
 
-| Course                                  | Prof.        |  Notes            | Video Lectures    |Level |
-| -------------                           | ------------ |-------------      | -------------     |------|
-| 18.01 Single Variable Calculus          | D. Jerison   |:white_check_mark: | :white_check_mark:|UG    |
-| Calculus I, II, III, IV                 | T. Bazett    |                   | :white_check_mark:|UG    |
-| 18.02 Multivariable Calculus	          | D. Auroux    | :white_check_mark:| :white_check_mark:|UG    |
-| 18.03 Differential equations	          | H. Miller    |:white_check_mark: | :white_check_mark:|UG    |
+| Course                                  | Prof.        |  Notes            | Video Lectures    |Level |Code |
+| -------------                           | ------------ |-------------      | -------------     |------|------|
+| 18.01 Single Variable Calculus          | D. Jerison   |:white_check_mark: | :white_check_mark:|UG    ||
+| Calculus I, II, III, IV                 | T. Bazett    |                   | :white_check_mark:|UG    ||
+| 18.02 Multivariable Calculus	          | D. Auroux    | :white_check_mark:| :white_check_mark:|UG    ||
+| 18.03 Differential equations	          | H. Miller    |:white_check_mark: | :white_check_mark:|UG    ||
 
 
 ## Linear algebra
