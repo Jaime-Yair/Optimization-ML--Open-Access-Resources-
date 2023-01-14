@@ -13,7 +13,7 @@
 
 ## Linear algebra
 
-| Course                                  | Prof.        |  Notes            | Video Lectures   |Level |Code |<a href=""Title"> Here</a>|
+| Course                                  | Prof.        |  Notes            | Video Lectures   |Level |Code |Website|
 | -------------                           | ------------ |-------------      |-------------     |------|-----|------|
 | 18.06 Linear Algebra	                  | G. Strang    |:white_check_mark: |:white_check_mark:|UG    |     | <a href="" title="Title"> Here</a>|<a href=""Title"> Here</a>|
 | Linear Algebra		                      | N. Johnston  | :white_check_mark:|:white_check_mark:|UG    ||<a href="" title="Title"> Here</a>|<a href=""Title"> Here</a>|
@@ -28,7 +28,7 @@
 
 
 
-| Course                                      | Prof.            |  Notes            | Video Lectures   |Level |  Code  |<a href=""Title"> Here</a>|
+| Course                                      | Prof.            |  Notes            | Video Lectures   |Level |  Code  |Website|
 | -------------                               | -------------    |-------------      | -------------    |------| ------ |------|
 | ORF307 Optimization	                        | B. Stellato      |:white_check_mark: |                  |UG    |<a href="https://github.com/ORF307/companion" title="Title"> Click</a>|<a href=""Title"> Here</a>|
 | Math 464 Linear Optimization	              | B. Krishnamoorthy| :white_check_mark:|:white_check_mark:|UG/GR |        |<a href=""Title"> Here</a>|
@@ -49,17 +49,20 @@
 
 | Course                                                      | Prof.        |  Notes           |Video Lectures    |Level | Website|
 | -------------                                               | -------------|-------------     |------------      |------|------|
-| 6.041 Probabilistic Systems Analysis And Applied Probability| J. Tsitsiklis|:white_check_mark:|:white_check_mark:|UG    |<a href=""Title"> Here</a>|
-| 6.262 Discrete Stochastic processe	                        | R. Gallager  |:white_check_mark:|:white_check_mark:|GR    |<a href=""Title"> Here</a>|
+| 6.041 Probabilistic Systems Analysis And Applied Probability| J. Tsitsiklis|:white_check_mark:|:white_check_mark:|UG    |<a href="" title="Title"> Here</a>|<a href=""Title"> Here</a>|
+| 6.262 Discrete Stochastic processe	                        | R. Gallager  |:white_check_mark:|:white_check_mark:|GR    |<a href="" title="Title"> Here</a>|<a href=""Title"> Here</a>|
 
 
 
 ## Mathematics for ML
 
 
-| Course                                      | Prof.         |  Notes           |Video Lectures    |Level | Code  |
-| -------------                               | ------------- |-------------     |-------------     |------|  ---- |
-| Statistical Machine Learning	              | R. Tibshirani |:white_check_mark:|:white_check_mark:|GR    |       | <a href=""Title"> Here</a>|
-| Mathematical Foundations for Data Analysis  | J. Phillips   |:white_check_mark:|:white_check_mark:|UG    | <a href="https://www.cs.utah.edu/~jeffp/teaching/FoDA.html" title="Title"> Click</a>| <a href=""Title"> Here</a>|
-| Mathematical Foundations of Machine Learning| R. Willett    |:white_check_mark:|:white_check_mark:|UG/GR ||<a href=""Title"> Here</a>|
+| Course                                      | Prof.         |  Notes           |Video Lectures    |Level | Code  | Website  |
+| -------------                               | ------------- |-------------     |-------------     |------|  ---- | ---- |
+| Statistical Machine Learning	              | R. Tibshirani |:white_check_mark:|:white_check_mark:|GR    |       | <a href="" title="Title"> Here</a>|<a href=""Title"> Here</a>|
+
+| Mathematical Foundations for Data Analysis  | J. Phillips   |:white_check_mark:|:white_check_mark:|UG    | <a href="https://www.cs.utah.edu/~jeffp/teaching/FoDA.html" title="Title"> Click</a>| <a href="" title="Title"> Here</a>|<a href=""Title"> Here</a>|
+
+| Mathematical Foundations of Machine Learning| R. Willett    |:white_check_mark:|:white_check_mark:|UG/GR ||<a href="" title="Title"> Here</a>|<a href=""Title"> Here</a>|
+
 
