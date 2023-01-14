@@ -60,9 +60,7 @@
 | Course                                      | Prof.         |  Notes           |Video Lectures    |Level | Code  | Website  |
 | -------------                               | ------------- |-------------     |-------------     |------|  ---- | ---- |
 | Statistical Machine Learning	              | R. Tibshirani |:white_check_mark:|:white_check_mark:|GR    |       | <a href="" title="Title"> Here</a>|
-
 | Mathematical Foundations for Data Analysis  | J. Phillips   |:white_check_mark:|:white_check_mark:|UG    | <a href="https://www.cs.utah.edu/~jeffp/teaching/FoDA.html" title="Title"> Click</a> | <a href="" title="Title"> Here</a>|
-
 | Mathematical Foundations of Machine Learning| R. Willett    |:white_check_mark:|:white_check_mark:|UG/GR |        |<a href="" title="Title"> Here</a>|
 
 
