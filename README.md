@@ -49,8 +49,8 @@
 
 | Course                                                      | Prof.        |  Notes           |Video Lectures    |Level | Website|
 | -------------                                               | -------------|-------------     |------------      |------|------|
-| 6.041 Probabilistic Systems Analysis And Applied Probability| J. Tsitsiklis|:white_check_mark:|:white_check_mark:|UG    |<a href="" title="Title"> Here</a>|
-| 6.262 Discrete Stochastic processe	                        | R. Gallager  |:white_check_mark:|:white_check_mark:|GR    |<a href="" title="Title"> Here</a>|
+| 6.041 Probabilistic Systems Analysis And Applied Probability| J. Tsitsiklis|:white_check_mark:|:white_check_mark:|UG    |<a href="https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video_galleries/video-lectures/" title="Title"> Here</a>|
+| 6.262 Discrete Stochastic processe	                        | R. Gallager  |:white_check_mark:|:white_check_mark:|GR    |<a href="https://ocw.mit.edu/courses/6-262-discrete-stochastic-processes-spring-2011/video_galleries/video-lectures/" title="Title"> Here</a>|
 
 
 
@@ -59,8 +59,8 @@
 
 | Course                                      | Prof.         |  Notes           |Video Lectures    |Level | Code  | Website  |
 | -------------                               | ------------- |-------------     |-------------     |------|  ---- | ---- |
-| Statistical Machine Learning	              | R. Tibshirani |:white_check_mark:|:white_check_mark:|GR    |       | <a href="" title="Title"> Here</a>|
-| Mathematical Foundations for Data Analysis  | J. Phillips   |:white_check_mark:|:white_check_mark:|UG    | <a href="https://www.cs.utah.edu/~jeffp/teaching/FoDA.html" title="Title"> Click</a> | <a href="" title="Title"> Here</a>|
-| Mathematical Foundations of Machine Learning| R. Willett    |:white_check_mark:|:white_check_mark:|UG/GR |        |<a href="" title="Title"> Here</a>|
+| Statistical Machine Learning	              | R. Tibshirani |:white_check_mark:|:white_check_mark:|GR    |       | <a href="https://www.stat.cmu.edu/~ryantibs/statml/" title="Title"> Here</a>|
+| Mathematical Foundations for Data Analysis  | J. Phillips   |:white_check_mark:|:white_check_mark:|UG    | <a href="https://www.cs.utah.edu/~jeffp/teaching/FoDA.html" title="Title"> Click</a> | <a href="https://www.cs.utah.edu/~jeffp/teaching/FoDA.html" title="Title"> Here</a>|
+| Mathematical Foundations of Machine Learning| R. Willett    |:white_check_mark:|:white_check_mark:|UG/GR |        |<a href="https://willett.psd.uchicago.edu/teaching/mathematical-foundations-of-machine-learning-fall-2020/" title="Title"> Here</a>|
 
 
