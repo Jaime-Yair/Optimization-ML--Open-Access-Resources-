@@ -18,7 +18,7 @@
 | 18.06 Linear Algebra	                  | G. Strang    |:white_check_mark: |:white_check_mark:|UG    |
 | Linear Algebra		                      | N. Johnston  | :white_check_mark:|:white_check_mark:|UG    |
 | Linear Algebra Full Course		          | T. Bazett    | -------------     |:white_check_mark:|UG    |
-| Introduction to Applied Linear Algebra	| S. Boyd      | :white_check_mark:|:white_check_mark:|UG    |<li><a href="[https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SLMkts8AAAAJ&citation_for_view=SLMkts8AAAAJ:X9ykpCP0fEIC](https://github.com/vbartle/VMLS-Companions)" title="Title"> Click</a></li>
+| Introduction to Applied Linear Algebra	| S. Boyd      | :white_check_mark:|:white_check_mark:|UG    |<a href="https://github.com/vbartle/VMLS-Companions" title="Title"> Click</a>
 | ECE/CS/ME 532 Matrix Methods in ML			| L. Lessard   | :white_check_mark:|:white_check_mark:|GR    |
 | 18.065 Matrix Methods In DA, SP, and ML	| G. Strang    | :white_check_mark:|:white_check_mark:|UG    |
 
