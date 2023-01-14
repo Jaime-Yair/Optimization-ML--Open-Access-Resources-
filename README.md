@@ -5,22 +5,22 @@
 
 | Course                                  | Prof.        |  Notes            | Video Lectures    |Level |Code  | Website|
 | -------------                           | ------------ |-------------      | -------------     |------|------|------|
-| 18.01 Single Variable Calculus          | D. Jerison   |:white_check_mark: | :white_check_mark:|UG    |      |<a href="https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures/"Title"> Here</a>|
-| Calculus I, II, III, IV                 | T. Bazett    |                   | :white_check_mark:|UG    |      |<a href=""Title"> Here</a>|
-| 18.02 Multivariable Calculus	          | D. Auroux    | :white_check_mark:| :white_check_mark:|UG    |      |<a href=""Title"> Here</a>|
-| 18.03 Differential equations	          | H. Miller    |:white_check_mark: | :white_check_mark:|UG    |      |<a href=""Title"> Here</a>|
+| 18.01 Single Variable Calculus          | D. Jerison   |:white_check_mark: | :white_check_mark:|UG    |      |<a href="" title="Title"> Here</a>|<a href=""Title"> Here</a>|
+| Calculus I, II, III, IV                 | T. Bazett    |                   | :white_check_mark:|UG    |      |<a href="" title="Title"> Here</a>|<a href=""Title"> Here</a>|
+| 18.02 Multivariable Calculus	          | D. Auroux    | :white_check_mark:| :white_check_mark:|UG    |      |<a href="" title="Title"> Here</a>|<a href=""Title"> Here</a>|
+| 18.03 Differential equations	          | H. Miller    |:white_check_mark: | :white_check_mark:|UG    |      |<a href="" title="Title"> Here</a>|<a href=""Title"> Here</a>|
 
 
 ## Linear algebra
 
 | Course                                  | Prof.        |  Notes            | Video Lectures   |Level |Code |<a href=""Title"> Here</a>|
 | -------------                           | ------------ |-------------      |-------------     |------|-----|------|
-| 18.06 Linear Algebra	                  | G. Strang    |:white_check_mark: |:white_check_mark:|UG    |     | <a href=""Title"> Here</a>|
-| Linear Algebra		                      | N. Johnston  | :white_check_mark:|:white_check_mark:|UG    ||<a href=""Title"> Here</a>|
-| Linear Algebra Full Course		          | T. Bazett    | -------------     |:white_check_mark:|UG    ||<a href=""Title"> Here</a>|
-| Introduction to Applied Linear Algebra	| S. Boyd      | :white_check_mark:|:white_check_mark:|UG    |<a href="https://github.com/vbartle/VMLS-Companions" title="Title"> Click</a>|<a href=""Title"> Here</a>|
-| ECE/CS/ME 532 Matrix Methods in ML			| L. Lessard   | :white_check_mark:|:white_check_mark:|GR    ||<a href=""Title"> Here</a>|
-| 18.065 Matrix Methods In DA, SP, and ML	| G. Strang    | :white_check_mark:|:white_check_mark:|UG    ||<a href=""Title"> Here</a>|
+| 18.06 Linear Algebra	                  | G. Strang    |:white_check_mark: |:white_check_mark:|UG    |     | <a href="" title="Title"> Here</a>|<a href=""Title"> Here</a>|
+| Linear Algebra		                      | N. Johnston  | :white_check_mark:|:white_check_mark:|UG    ||<a href="" title="Title"> Here</a>|<a href=""Title"> Here</a>|
+| Linear Algebra Full Course		          | T. Bazett    | -------------     |:white_check_mark:|UG    ||<a href="" title="Title"> Here</a>|<a href=""Title"> Here</a>|
+| Introduction to Applied Linear Algebra	| S. Boyd      | :white_check_mark:|:white_check_mark:|UG    |<a href="https://github.com/vbartle/VMLS-Companions" title="Title"> Click</a>|<a href=""Title"> Here</a>| <a href="" title="Title"> Here</a>|<a href=""Title"> Here</a>|
+| ECE/CS/ME 532 Matrix Methods in ML			| L. Lessard   | :white_check_mark:|:white_check_mark:|GR    ||<a href="" title="Title"> Here</a>|<a href=""Title"> Here</a>|
+| 18.065 Matrix Methods In DA, SP, and ML	| G. Strang    | :white_check_mark:|:white_check_mark:|UG    ||<a href="" title="Title"> Here</a>|<a href=""Title"> Here</a>|
 
 
 
