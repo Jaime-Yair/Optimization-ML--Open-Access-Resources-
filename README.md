@@ -5,10 +5,10 @@
 
 | Course                                  | Prof.        |  Notes            | Video Lectures    |Level |Code  | Website|
 | -------------                           | ------------ |-------------      | -------------     |------|------|------|
-| 18.01 Single Variable Calculus          | D. Jerison   |:white_check_mark: | :white_check_mark:|UG    |      |<a href="" title="Title"> Here</a>|
-| Calculus I, II, III, IV                 | T. Bazett    |                   | :white_check_mark:|UG    |      |<a href="" title="Title"> Here</a>|
-| 18.02 Multivariable Calculus	          | D. Auroux    | :white_check_mark:| :white_check_mark:|UG    |      |<a href="" title="Title"> Here</a>|
-| 18.03 Differential equations	          | H. Miller    |:white_check_mark: | :white_check_mark:|UG    |      |<a href="" title="Title"> Here</a>|
+| 18.01 Single Variable Calculus          | D. Jerison   |:white_check_mark: | :white_check_mark:|UG    |      |<a href="https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures/" title="Title"> Here</a>|
+| Calculus I, II, III, IV                 | T. Bazett    |                   | :white_check_mark:|UG    |      |<a href="https://www.youtube.com/@DrTrefor/playlists?view=50&sort=dd&shelf_id=2" title="Title"> Here</a>|
+| 18.02 Multivariable Calculus	          | D. Auroux    | :white_check_mark:| :white_check_mark:|UG    |      |<a href="https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007/video_galleries/video-lectures/" title="Title"> Here</a>|
+| 18.03 Differential equations	          | H. Miller    |:white_check_mark: | :white_check_mark:|UG    |      |<a href="https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/video_galleries/video-lectures/" title="Title"> Here</a>|
 
 
 ## Linear algebra
