@@ -3,24 +3,24 @@
 ## Calculus/Diff equations/Analysis
 
 
-| Course                                | Prof.          |  Notes |
-| -------------                         | -------------  |------------- |
-| 18.01 Single Variable Calculus        |                |------------- |
-| Calculus I, II, III, IV               |                | ------------- |
-| 18.02 Multivariable Calculus	        |                | ------------- |
-| 18.03 Differential equations	        |                | ------------- |
+| Course                                  | Prof.          |  Notes |
+| -------------                           | -------------  |------------- |
+| 18.01 Single Variable Calculus          | D. Jerison               |------------- |
+| Calculus I, II, III, IV                 | T. Bazett               | ------------- |
+| 18.02 Multivariable Calculus	          | D. Auroux               | ------------- |
+| 18.03 Differential equations	          | H. Miller               | ------------- |
 
 
 ## Linear algebra
 
-| Course                                | Prof.          |  Notes |
-| -------------                         | -------------  |------------- |
-| 18.06 Linear Algebra	        |                |------------- |
-| Linear Algebra		               |                | ------------- |
-| Linear Algebra Full Course		        |                | ------------- |
-| Introduction to Applied Linear Algebra		        |                | ------------- |
-| ECE/CS/ME 532 Matrix Methods in Machine Learning			        |                | ------------- |
-| 18.065 Matrix Methods In DA, SP, and ML			        |                | ------------- |
+| Course                                  | Prof.          |  Notes |
+| -------------                           | -------------  |------------- |
+| 18.06 Linear Algebra	                  |                |------------- |
+| Linear Algebra		                      |                | ------------- |
+| Linear Algebra Full Course		          |                | ------------- |
+| Introduction to Applied Linear Algebra	|                | ------------- |
+| ECE/CS/ME 532 Matrix Methods in ML			|                | ------------- |
+| 18.065 Matrix Methods In DA, SP, and ML	|                | ------------- |
 
 
 
