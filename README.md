@@ -30,17 +30,17 @@
 
 | Course                                      | Prof.            |  Notes            | Video Lectures   |Level |  Code  |Website|
 | -------------                               | -------------    |-------------      | -------------    |------| ------ |------|
-| ORF307 Optimization	                        | B. Stellato      |:white_check_mark: |                  |UG    |<a href="https://github.com/ORF307/companion" title="Title"> Click</a>|<a href="" title="Title"> Here</a>|
-| Math 464 Linear Optimization	              | B. Krishnamoorthy| :white_check_mark:|:white_check_mark:|UG/GR |        |<a href="" title="Title"> Here</a>|
-| Convex optimization		                      | A. Bazzi         | :white_check_mark:|:white_check_mark:|UG    |        |<a href="" title="Title"> Here</a>|
-| ORF522: Linear and Nonlinear Optimization	  | B. Stellato      | :white_check_mark:|                  |GR    |<a href="https://github.com/ORF522/companion" title="Title"> Click</a>|<a href="" title="Title"> Here</a>|
-| Convex optimization		                      | R. Tibshirani    |:white_check_mark: |:white_check_mark:|GR    |  |<a href="" title="Title"> Here</a>|
-| Optimization		                            | G. Gordon        | :white_check_mark:|:white_check_mark:|UG    |  |<a href="" title="Title"> Here</a>|
-| ISE 3200 Linear and Integer Programming	    | A. Conejo        | :white_check_mark:|:white_check_mark:|UG    |  |<a href="" title="Title"> Here</a>|
-| ISyE/Math/CS 728 Integer Optimization	      | A. Del Pia       | -------------     |:white_check_mark:|GR    |  |<a href="" title="Title"> Here</a>|
-| ISyE/Math/CS/Stat 525 Linear Optimization		| A. Del Pia       | -------------     |:white_check_mark:|GR    |  |<a href="" title="Title"> Here</a>|
-| CS/ECE/ISyE 524 Introduction to Optimization| L. Lessard       | :white_check_mark:|:white_check_mark:|UG    |<a href="https://laurentlessard.com/teaching/524-intro-to-optimization/" title="Title"> Click</a>|<a href="" title="Title"> Here</a>|
-| EE364a: Convex Optimization I	              | S. Boyd          |:white_check_mark: |:white_check_mark:|UG    |  |<a href="" title="Title"> Here</a>|
+| ORF307 Optimization	                        | B. Stellato      |:white_check_mark: |                  |UG    |<a href="https://github.com/ORF307/companion" title="Title"> Click</a>|<a href="https://stellato.io/teaching/orf307/" title="Title"> Here</a>|
+| Math 464 Linear Optimization	              | B. Krishnamoorthy| :white_check_mark:|:white_check_mark:|UG/GR |        |<a href="https://www.math.wsu.edu/math/faculty/bkrishna/FilesMath464/S18/LecNotes/welcome.html" title="Title"> Here</a>|
+| Convex optimization		                      | A. Bazzi         | :white_check_mark:|:white_check_mark:|UG    |        |<a href="https://www.youtube.com/watch?v=SHJuGASZwlE&list=PL-DDW8QIRjNOVxrU2efygBw0xADVOgpmw" title="Title"> Here</a>|
+| ORF522: Linear and Nonlinear Optimization	  | B. Stellato      | :white_check_mark:|                  |GR    |<a href="https://github.com/ORF522/companion" title="Title"> Click</a>|<a href="https://stellato.io/teaching/orf522" title="Title"> Here</a>|
+| Convex optimization		                      | R. Tibshirani    |:white_check_mark: |:white_check_mark:|GR    |  |<a href="https://www.stat.cmu.edu/~ryantibs/convexopt-F18/" title="Title"> Here</a>|
+| Optimization		                            | G. Gordon        | :white_check_mark:|:white_check_mark:|UG    |  |<a href="http://www.cs.cmu.edu/~ggordon/10725-F12/schedule.html" title="Title"> Here</a>|
+| ISE 3200 Linear and Integer Programming	    | A. Conejo        | :white_check_mark:|:white_check_mark:|UG    |  |<a href="https://u.osu.edu/conejo.1/courses/lp-milp/" title="Title"> Here</a>|
+| ISyE/Math/CS 728 Integer Optimization	      | A. Del Pia       |                   |:white_check_mark:|GR    |  |<a href="https://www.youtube.com/playlist?list=PLeO_PhASIA0NlDNF9y-SsgVEYcvAMj2CY" title="Title"> Here</a>|
+| ISyE/Math/CS/Stat 525 Linear Optimization		| A. Del Pia       |                   |:white_check_mark:|GR    |  |<a href="https://www.youtube.com/playlist?list=PLeO_PhASIA0Ot69TqANAnNxoykHGOQp2Y" title="Title"> Here</a>|
+| CS/ECE/ISyE 524 Introduction to Optimization| L. Lessard       | :white_check_mark:|:white_check_mark:|UG    |<a href="https://laurentlessard.com/teaching/524-intro-to-optimization/" title="Title"> Click</a>|<a href="https://laurentlessard.com/teaching/524-intro-to-optimization/" title="Title"> Here</a>|
+| EE364a: Convex Optimization I	              | S. Boyd          |:white_check_mark: |:white_check_mark:|UG    |  |<a href="https://www.youtube.com/watch?v=McLq1hEq3UY" title="Title"> Here</a>|
 
 
 
