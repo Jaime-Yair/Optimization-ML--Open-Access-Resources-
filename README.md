@@ -15,12 +15,12 @@
 
 | Course                                  | Prof.        |  Notes            | Video Lectures   |Level |Code |Website|
 | -------------                           | ------------ |-------------      |-------------     |------|-----|------|
-| 18.06 Linear Algebra	                  | G. Strang    |:white_check_mark: |:white_check_mark:|UG    |     | <a href="" title="Title"> Here</a>|
-| Linear Algebra		                      | N. Johnston  | :white_check_mark:|:white_check_mark:|UG    |     |<<a href="" title="Title"> Here</a>|
-| Linear Algebra Full Course		          | T. Bazett    | -------------     |:white_check_mark:|UG    |     |<<a href="" title="Title"> Here</a>|
-| Introduction to Applied Linear Algebra	| S. Boyd      | :white_check_mark:|:white_check_mark:|UG    |<a href="https://github.com/vbartle/VMLS-Companions" title="Title"> Click</a>| <a href="" title="Title"> Here</a>|
-| ECE/CS/ME 532 Matrix Methods in ML			| L. Lessard   | :white_check_mark:|:white_check_mark:|GR    ||<a href="" title="Title"> Here</a>|
-| 18.065 Matrix Methods In DA, SP, and ML	| G. Strang    | :white_check_mark:|:white_check_mark:|UG    ||<a href="" title="Title"> Here</a>|
+| 18.06 Linear Algebra	                  | G. Strang    |:white_check_mark: |:white_check_mark:|UG    |     |<a href="https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/video_galleries/video-lectures/" title="Title"> Here</a>|
+| Linear Algebra		                      | N. Johnston  | :white_check_mark:|:white_check_mark:|UG    |     |<a href="https://www.youtube.com/watch?v=ea6p2eb7mTQ&list=PLOAf1ViVP13jmawPabxnAa00YFIetVqbd&index=1" title="Title"> Here</a>|
+| Linear Algebra Full Course		          | T. Bazett    | -------------     |:white_check_mark:|UG    |     |<a href="https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6" title="Title"> Here</a>|
+| Introduction to Applied Linear Algebra	| S. Boyd      | :white_check_mark:|:white_check_mark:|UG    |<a href="https://github.com/vbartle/VMLS-Companions" title="Title"> Click</a>| <a href="https://www.youtube.com/playlist?list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9" title="Title"> Here</a>|
+| ECE/CS/ME 532 Matrix Methods in ML			| L. Lessard   | :white_check_mark:|:white_check_mark:|GR    ||<a href="https://laurentlessard.com/teaching/532-matrix-methods/" title="Title"> Here</a>|
+| 18.065 Matrix Methods In DA, SP, and ML	| G. Strang    | :white_check_mark:|:white_check_mark:|UG    ||<a href="https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video_galleries/video-lectures/" title="Title"> Here</a>|
 
 
 
