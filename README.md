@@ -48,7 +48,7 @@
 
 
 | Course                                                      | Prof.        |  Notes           |Video Lectures    |
-| -------------                                               | -------------|-------------     |                  |
+| -------------                                               | -------------|-------------     |------------      |
 | 6.041 Probabilistic Systems Analysis And Applied Probability| J. Tsitsiklis|:white_check_mark:|:white_check_mark:|
 | 6.262 Discrete Stochastic processe	                        | R. Gallager  |:white_check_mark:|:white_check_mark:|
 
